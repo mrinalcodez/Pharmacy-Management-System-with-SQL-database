@@ -1,4 +1,4 @@
-# **Pharmacy-Management-System**
+# **Pharmacy-Management-System with SQL database**
 
 **How to run the Project:**
 1. Clone this repo using 
